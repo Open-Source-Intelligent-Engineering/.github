@@ -1,12 +1,11 @@
-## Hi there 👋
+This is the official website of **Open Source Intelligent Engineering Foundation**!
 
-<!--
+OpenIE aims to use both advanced computer technology and traditional engineering knowledge such as engineering control theory, optimization, electronics, mechanic and so on to make industry more efficiant and reliable.
 
-**Here are some ideas to get you started:**
+The OpenIE project takes operations research and system engineering as its theoretical basis, and uses computers as an advanced means. It is compatible with and contains many new disciplines and theoretical technologies (modern control theory, meta-heuristic and deep reinforcement learning algorithms, embedded development, cloud-edge collaboration, machine vision, etc.). Our team is committed to combining traditional industrial engineering theory with artificial intelligence to realize intelligent management of modern industrial enterprises, improve the utilization rate of production materials, optimize human resources of enterprises, and then help Asian industrial development.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Here are some researches we are doing right now:
+
+[Deep learning-based tool wear prediction in machining centers and its industrial application](https://github.com/Open-Source-Intelligent-Engineering/OpenIE-WaveAnalysis)
+
+[OpenIE CNC machining center sensor signal visualization](https://github.com/Open-Source-Intelligent-Engineering/OpenIE-Streamlit)
