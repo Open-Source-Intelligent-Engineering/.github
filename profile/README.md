@@ -12,3 +12,4 @@ Here are some researches we are doing right now:
 
 [Web Board Game "Avalon" created by OpenIE foundation](https://github.com/Open-Source-Intelligent-Engineering/OpenIE-Avalon)
 
+[An update version of TEAS: Transcription and Expressiveness Annotation System dedicated to Chinese Tranditional Instrument Pipa](https://github.com/Open-Source-Intelligent-Engineering/TEAS-2.0)
