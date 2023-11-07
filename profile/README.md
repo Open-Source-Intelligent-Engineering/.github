@@ -9,3 +9,6 @@ Here are some researches we are doing right now:
 [Deep learning-based tool wear prediction in machining centers and its industrial application](https://github.com/Open-Source-Intelligent-Engineering/OpenIE-WaveAnalysis)
 
 [OpenIE CNC machining center sensor signal visualization](https://github.com/Open-Source-Intelligent-Engineering/OpenIE-Streamlit)
+
+[Web Board Game "Avalon" created by OpenIE foundation](https://github.com/Open-Source-Intelligent-Engineering/OpenIE-Avalon)
+
